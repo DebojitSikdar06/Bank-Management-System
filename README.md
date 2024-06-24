@@ -2,6 +2,7 @@
 
 This repository contains a simple banking system implemented in Python using MySQL database for storing account information and transactions. The system allows users to perform various banking operations such as creating accounts, depositing money, withdrawing money, checking balances, and more.
 
+
 ## Features
 
 - **Account Creation**: Users can create new bank accounts by providing their name, initial balance, and account type.
